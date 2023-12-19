@@ -1,13 +1,13 @@
 <br clear="both">
 
-<h3 align="left">Hi 👋! My name is Bartek</h3>
+<h2 align="left">Hi 👋! My name is Bartek</h2>
 
 ###
 
 <br clear="both">
 
 <div align="left">
-  <img height="100" src="https://media1.tenor.com/m/ZIyHT3VRvPAAAAAd/allright-naruto.gif"  />
+  <img height="150" src="https://media1.tenor.com/m/ZIyHT3VRvPAAAAAd/allright-naruto.gif"  />
 </div>
 
 ###
@@ -19,13 +19,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
 ###
@@ -38,10 +38,10 @@
 
 ###
 
-<h3 align="left">FrontEnd Developer⭐</h3>
+<h3 align="left">⭐FrontEnd Developer⭐</h3>
 
 ###
 
-<h5 align="left">I mainly use Next and React to build my projects. But i can sometimes experiment with other stuff.<br>(Currently trying more FullStack).<br> Progress and expansion of my knowledge is what i focus on. I don't mind trying new things, new challenges and competition. If you want to work with me, feel free to contact me 😉</h5>
+<h4 align="left">I mainly use Next and React to build my projects. But i can sometimes experiment with other stuff.<br>(Currently trying more FullStack). Progress and expansion of my knowledge is what i focus on. I don't mind trying new things, new challenges and competition. If you want to work with me, feel free to contact me 😉</h4>
 
 ###
