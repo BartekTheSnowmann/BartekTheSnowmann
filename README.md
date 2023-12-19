@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Bartek</h2>
+<h3 align="left">Hi 👋! My name is Bartek</h3>
 
 ###
 
@@ -38,10 +38,10 @@
 
 ###
 
-<h2 align="left">FrontEnd Developer⭐</h2>
+<h3 align="left">FrontEnd Developer⭐</h3>
 
 ###
 
-<h4 align="left">I mainly use Next and React to build my projects. But i can sometimes experiment with other stuff.<br>(Currently trying more FullStack).<br> Progress and expansion of my knowledge is what i focus on. I don't mind trying new things, new challenges and competition. If you want to work with me, feel free to contact me 😉</h4>
+<h5 align="left">I mainly use Next and React to build my projects. But i can sometimes experiment with other stuff.<br>(Currently trying more FullStack).<br> Progress and expansion of my knowledge is what i focus on. I don't mind trying new things, new challenges and competition. If you want to work with me, feel free to contact me 😉</h5>
 
 ###
