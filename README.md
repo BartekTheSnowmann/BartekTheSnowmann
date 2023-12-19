@@ -45,3 +45,11 @@
 <h4 align="left">I mainly use Next and React to build my projects. But i can sometimes experiment with other stuff.<br>(Currently trying more FullStack). Progress and expansion of my knowledge is what i focus on. I don't mind trying new things, new challenges and competition. If you want to work with me, feel free to contact me 😉</h4>
 
 ###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/bartosz-mr%C3%B3z-536710274/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
